@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://static3.tgstat.ru/channels/_0/fa/fa265a4619fbb721fa2a3bcfcf0d73df.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+
+       
+   }
+   .h1{
+       text-align: center;
+       color: rgb(0, 0, 0);
+       background-color: rgb(71, 143, 84);
+   }
+   .h1:hover{
+       color: rgb(228, 47, 110);
+   }
+   .container{
+    align-items: center;
+    justify-content: center;
+    min-height: 100hv;
+   }
